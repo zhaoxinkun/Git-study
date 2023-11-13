@@ -1,2 +1,2 @@
 # Git-study
-git
+this is about git study file 
