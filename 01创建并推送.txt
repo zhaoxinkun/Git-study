@@ -10,3 +10,5 @@
      git remote add origin [GitHub仓库URL]
 推送远程
      git push -u origin main      
+查看装态
+     git status
