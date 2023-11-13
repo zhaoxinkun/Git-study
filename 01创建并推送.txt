@@ -1,1 +1,12 @@
-one
+本地创建
+     git init 
+本地提交
+     git add . 
+提交远程
+     git commit -m "版本名字"
+     创建分支
+     git branch -M main 
+关联远程
+     git remote add origin [GitHub仓库URL]
+推送远程
+     git push -u origin main      
